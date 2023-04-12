@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 ]
 LOCAL_APPS = [
     'product',
+    'order',
 ]
 
 MIDDLEWARE = [
